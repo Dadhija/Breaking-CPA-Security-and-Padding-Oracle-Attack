@@ -1,0 +1,79 @@
+{
+  "password": "44616468696a615043727970746f4877",
+  "decisions": [
+    {
+      "ciphertext": {
+      "random_nonce": "f0aeb31df2b336c970cf58b87f1dacb3",
+      "c1": "da39383030756b1acb9507c8aba414ad",
+      "c2": "3988dbfc134da0b49c0ce3910569a497"
+      },
+      "decision": 2
+
+"ciphertext": {
+      "random_nonce": "9a1064da112d0a34c70be006b7910e2c",
+      "c1": "6233655280d4154265ac0d0c856bff6d",
+      "c2": "de4e635ac811d719a5cd25e5589a30ef"
+      },
+      "decision": 2
+
+"ciphertext": {
+      "random_nonce": "c1294535aeff711c5bcfd242cee368df",
+      "c1": "d546f11248e5e75a6836c43b2bc4beab",
+      "c2": "7d94dca3d05e8745d3eb121256b0cc58"
+      },
+      "decision": 2
+
+"ciphertext": {
+      "random_nonce": "72814559e9d37ab012a9f3c03ed1b15e",
+      "c1": "74e54f546afdf39fdfb84abcbcb1ceaf",
+      "c2": "3988dbfc134da0b49c0ce3910569a497"
+      },
+      "decision": 1
+
+
+"ciphertext": {
+      "random_nonce": "cf36d0a7ea0ae5c7fe861797fcc2c833",
+      "c1": "c7f58db75c715fad8d779c0291ad8c86",
+      "c2": "03072e6ba3788c40383d69e95f5d9b3f"
+      },
+      "decision": 2
+
+"ciphertext": {
+      "random_nonce": "6a91bda913fd273b1d12278fcc2edf43",
+      "c1": "4b89128750f936b63a433e48b153f246",
+      "c2": "6c5d115a40128caf9e4867b5317feca4"
+      },
+      "decision": 1
+
+"ciphertext": {
+      "random_nonce": "15423682be9e753fe7ef75a3ed49304c",
+      "c1": "ec779c730e1fccbfcca5faa4ef943ec1",
+      "c2": "6c5d115a40128caf9e4867b5317feca4"
+      },
+      "decision": 2
+
+"ciphertext": {
+      "random_nonce": "98a477385e247a53ab86944e2d9105d2",
+      "c1": "e108965bdf3ff3ed9b93905c431c7762",
+      "c2": "7d94dca3d05e8745d3eb121256b0cc58"
+      },
+      "decision": 2
+
+"ciphertext": {
+      "random_nonce": "5fb85deb57fccfdd65034162cccd0e34",
+      "c1": "9c60fb18e1c87dd3030d2d25ea6bc5f1",
+      "c2": "3610be0cfa2abd2f969d0cdc47c32390"
+      },
+      "decision": 2
+
+"ciphertext": {
+      "random_nonce": "bbccb4269ce10aa6bcf40984798d87cb",
+      "c1": "61a18b04b5f6af8064b43767dd8bc1e2",
+      "c2": "6c5d115a40128caf9e4867b5317feca4"
+      }
+      "decision": 1
+
+
+    }
+  ]
+}
